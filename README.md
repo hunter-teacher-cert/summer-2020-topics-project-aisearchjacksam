@@ -1,7 +1,7 @@
 # REPLACE THIS WITH TOPIC TITLE
 # Team Members
-1.
-2. 
+1. Sam Keener
+2. Jack McCoy
 3. 
 
 # Instructions
