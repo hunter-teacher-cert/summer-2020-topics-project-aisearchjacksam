@@ -1,4 +1,4 @@
-# AI Search (BFS vs DFS & A* Search)
+# AI Search (BFS / DFS and A*)
 # Team Members
 1. Sam Keener
 2. Jack McCoy
