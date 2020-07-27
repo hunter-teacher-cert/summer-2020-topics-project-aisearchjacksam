@@ -1,4 +1,4 @@
-# REPLACE THIS WITH TOPIC TITLE
+# AI Search (BFS vs DFS & A* Search)
 # Team Members
 1. Sam Keener
 2. Jack McCoy
